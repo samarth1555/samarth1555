@@ -1,6 +1,6 @@
 # Samarth Keshari
 
-AI and Backend Engineer focused on building scalable machine learning systems and production-ready APIs.
+Software Engineer and AI/ML Practitioner focused on building scalable backend systems, machine learning platforms, and production-ready APIs.
 
 ---
 
@@ -8,23 +8,42 @@ AI and Backend Engineer focused on building scalable machine learning systems an
 - Artificial Intelligence and Machine Learning projects
 - Backend development using Python, FastAPI, and REST APIs
 - Data Structures and Algorithms in C++ and Java
+- Cloud-native application development and containerized services
 
+---
+
+## Open to Collaborations
+- Open-source AI/ML and backend systems
+- Resume parsing and recommendation platforms
+- Machine learning pipelines and inference services
+- Distributed, API-driven architectures
 
 ---
 
 ## Currently Learning
 - Deep learning architectures including CNNs, Transformers, and vision models
 - Large language models, retrieval-augmented generation, and NLP systems
-- Advanced backend design patterns and asynchronous systems
+- Distributed systems, system design, and asynchronous backend architectures
 
 ---
 
-## Expertise
-- Python, C++, Java
-- PyTorch, TensorFlow, scikit-learn
-- FastAPI, Django, RESTful services
-- ML pipelines and algorithmic optimization
+## Core Expertise
+- Programming Languages: Python, C++, Java
+- Machine Learning: PyTorch, TensorFlow, scikit-learn
+- Backend: FastAPI, Django, RESTful and asynchronous services
+- Systems: Microservices, caching strategies, system design
+- Databases: PostgreSQL, MongoDB
 
+---
+
+## Contact
+[LinkedIn](https://linkedin.com/in/samarth-keshari-a13868354)  
+[Email](mailto:samarthkeshari15@gmail.com)  
+[GitHub](https://github.com/samarth1555)  
+[Portfolio](https://samarth1555.github.io)  
+[Hugging Face](https://huggingface.co/Samarth15)
+
+---
 
 ## Tech Stack
 
@@ -33,6 +52,7 @@ AI and Backend Engineer focused on building scalable machine learning systems an
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+---
 
 ### Backend and Cloud
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -42,12 +62,16 @@ AI and Backend Engineer focused on building scalable machine learning systems an
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure)
 
+---
+
 ### Machine Learning and Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
 ![Apache%20Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+
+---
 
 ### Frontend and Databases
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
@@ -58,10 +82,11 @@ AI and Backend Engineer focused on building scalable machine learning systems an
 ---
 
 ## GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=samarth1555&theme=default&hide_border=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=samarth1555&theme=default&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=samarth1555&hide_border=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=samarth1555&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth1555&hide_border=true&layout=compact)
 
 ---
 
+<!-- Visitor counter is optional. Remove if you want a cleaner look -->
 [![](https://visitcount.itsvg.in/api?id=samarth1555&icon=0&color=0)](https://visitcount.itsvg.in)
