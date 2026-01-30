@@ -12,14 +12,6 @@ Software Engineer and AI/ML Practitioner focused on building scalable backend sy
 
 ---
 
-## Open to Collaborations
-- Open-source AI/ML and backend systems
-- Resume parsing and recommendation platforms
-- Machine learning pipelines and inference services
-- Distributed, API-driven architectures
-
----
-
 ## Currently Learning
 - Deep learning architectures including CNNs, Transformers, and vision models
 - Large language models, retrieval-augmented generation, and NLP systems
@@ -33,15 +25,6 @@ Software Engineer and AI/ML Practitioner focused on building scalable backend sy
 - Backend: FastAPI, Django, RESTful and asynchronous services
 - Systems: Microservices, caching strategies, system design
 - Databases: PostgreSQL, MongoDB
-
----
-
-## Contact
-[LinkedIn](https://linkedin.com/in/samarth-keshari-a13868354)  
-[Email](mailto:samarthkeshari15@gmail.com)  
-[GitHub](https://github.com/samarth1555)  
-[Portfolio](https://samarth1555.github.io)  
-[Hugging Face](https://huggingface.co/Samarth15)
 
 ---
 
