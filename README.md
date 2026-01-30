@@ -9,13 +9,6 @@ AI and Backend Engineer focused on building scalable machine learning systems an
 - Backend development using Python, FastAPI, and REST APIs
 - Data Structures and Algorithms in C++ and Java
 
----
-
-## Open to Collaborations
-- Open-source AI/ML and backend systems
-- Resume parsing and recommendation platforms
-- Machine learning pipelines and inference services
-- Distributed, API-driven architectures
 
 ---
 
@@ -32,16 +25,6 @@ AI and Backend Engineer focused on building scalable machine learning systems an
 - FastAPI, Django, RESTful services
 - ML pipelines and algorithmic optimization
 
----
-
-## Contact
-[LinkedIn](https://linkedin.com/in/samarth-keshari-a13868354)  
-[Email](mailto:samarthkeshari15@gmail.com)  
-[GitHub](https://github.com/samarth1555)  
-[Portfolio](https://samarth1555.github.io)  
-[Hugging Face](https://huggingface.co/Samarth15)
-
----
 
 ## Tech Stack
 
