@@ -1,18 +1,84 @@
-#  About Me:
- I’m currently working on  <br>• Artificial Intelligence & Machine Learning projects  <br>• Backend development using Python, FastAPI, and REST APIs  <br>• Data Structures & Algorithms (C++ / Java) for problem-solving  <br><br> I’m looking to collaborate on  <br>• Open-source AI/ML and backend projects  <br>• Resume parsing, recommendation systems, and ML pipelines  <br>• Scalable API-based applications  <br><br> I’m looking for help with  <br>• System design and backend scalability  <br>• Optimizing ML models for production  <br>• Advanced DSA and algorithmic optimizations  <br><br> I’m currently learning  <br>• Deep Learning (CNNs, Transformers, Vision Models)  <br>• Large Language Models (LLMs) and NLP pipelines  <br>• Advanced backend architecture and async systems  <br><br> Ask me about  <br>• Python, C++, Java  <br>• Machine Learning & AI (Scikit-learn, TensorFlow, PyTorch)  <br>• Backend development (FastAPI, Django, REST APIs)  <br>• Resume parsing, ML pipelines, and DSA  <br><br> Fun fact  <br>• I enjoy turning complex real-world problems into clean, efficient algorithms—and I love debugging performance bottlenecks.<br> Reach me at  <br>- Email: samarthkeshari15@gmail.com  <br>- LinkedIn: https://linkedin.com/in/samarth-keshari-a13868354  <br>- GitHub: https://github.com/samarth1555  <br>- Portfolio: https://samarth1555.github.io  <br>- Hugging Face: https://huggingface.co/Samarth15  <br>
+# Samarth Keshari
 
-
-##  Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/samarth00377) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/samarth-keshari-a13868354) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthkeshari15@gmail.com) 
-
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samarth1555&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=samarth1555&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth1555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+AI and Backend Engineer focused on building scalable machine learning systems and production-ready APIs.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samarth1555&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Current Work
+- Artificial Intelligence and Machine Learning projects
+- Backend development using Python, FastAPI, and REST APIs
+- Data Structures and Algorithms in C++ and Java
+
+---
+
+## Open to Collaborations
+- Open-source AI/ML and backend systems
+- Resume parsing and recommendation platforms
+- Machine learning pipelines and inference services
+- Distributed, API-driven architectures
+
+---
+
+## Currently Learning
+- Deep learning architectures including CNNs, Transformers, and vision models
+- Large language models, retrieval-augmented generation, and NLP systems
+- Advanced backend design patterns and asynchronous systems
+
+---
+
+## Expertise
+- Python, C++, Java
+- PyTorch, TensorFlow, scikit-learn
+- FastAPI, Django, RESTful services
+- ML pipelines and algorithmic optimization
+
+---
+
+## Contact
+[LinkedIn](https://linkedin.com/in/samarth-keshari-a13868354)  
+[Email](mailto:samarthkeshari15@gmail.com)  
+[GitHub](https://github.com/samarth1555)  
+[Portfolio](https://samarth1555.github.io)  
+[Hugging Face](https://huggingface.co/Samarth15)
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Backend and Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure)
+
+### Machine Learning and Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+![Apache%20Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+
+### Frontend and Databases
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+
+---
+
+## GitHub Statistics
+![](https://github-readme-stats.vercel.app/api?username=samarth1555&theme=default&hide_border=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=samarth1555&theme=default&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth1555&hide_border=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=samarth1555&icon=0&color=0)](https://visitcount.itsvg.in)
